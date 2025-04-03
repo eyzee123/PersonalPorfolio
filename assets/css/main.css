@@ -834,6 +834,19 @@ section,
   overflow: hidden;
 }
 
+.portfolio .portfolio-content .work-item {
+
+}
+.portfolio .portfolio-content .work-item .title {
+  display: flex;
+  flex-direction: row;
+}
+.portfolio .portfolio-content .work-item .title img{
+ height: 30px;
+ width: 30px;
+ margin-right: 5px;
+}
+
 .portfolio .portfolio-content img {
   transition: 0.3s;
 }
