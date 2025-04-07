@@ -829,6 +829,10 @@ section,
   }
 }
 
+.portfolio .portfolio-item {
+ height: 570px;
+}
+
 .portfolio .portfolio-content {
   position: relative;
   overflow: hidden;
